@@ -1,9 +1,12 @@
 import streamlit as st
 import requests
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
 st.title("📅 TailorTalk - Calendar Assistant")
 
-backend_url = "https://calendarbot-ddbm.onrender.com/chat"
+backend_url = os.getenv("BACKEND_URL", "http://localhost:8000/chat")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
