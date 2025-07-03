@@ -3,7 +3,7 @@ import requests
 
 st.title("📅 TailorTalk - Calendar Assistant")
 
-backend_url = "http://localhost:8000/chat"
+backend_url = "https://calendarbot-ddbm.onrender.com/chat"
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
