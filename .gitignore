@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.venv/
+venv/
+.env
+
+# IDE stuff
+.vscode/
+.idea/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Credentials
+credentials/
+*.json
+
+# Streamlit
+.streamlit/
+
+# Logs or temp
+*.log
+*.tmp
+
+# Compiled output
+*.so
+*.dll
+*.exe
