@@ -19,6 +19,17 @@ It can:
 
 All through natural back-and-forth conversations!
 
+
+## 🖼️ Demo Screens
+
+### 🧠 Intelligent Conversations
+![Chat in Action](screenshots/chatbot1.png)
+
+![Chat in Action](screenshots/chatbot2.png)
+
+### 📅 Calendar Changes
+![Calendar UI](screenshots/calendar.png)
+
 ---
 
 ## Tech Stack
@@ -169,8 +180,8 @@ Make sure to:
 ---
 
 ## 🔗 Live Demo & Calendar Access
-- 🌍 [Check the Chatbot here in live](https://your-app-url.streamlit.app)
-- 📅 [View the Shared Public Calendar](https://calendar.google.com/calendar/embed?src=your-calendar-id)
+- 🌍 [Check the Chatbot here in live](https://calendarbot-tailortalk.streamlit.app/)
+- 📅 [View the Shared Public Calendar](https://calendar.google.com/calendar/u/0?cid=Njc4OGRlYTVhOWFiNTk4MWIwOGZlNjQ0YTcwNmJjMzU0NDQxMDE4ZGZhZjFjYmZhYTRlNTQzMzk3YmFhOGU5ZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ---
 
